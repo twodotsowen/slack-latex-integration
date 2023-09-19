@@ -60,7 +60,7 @@ that contains it, like $$\R  $$.
 
 
 Plugin by Sophie Huiberts and Bento Natura (2019-2022).
-Option to choose $/$$/$$$ delimiters added by Nicolas Boumal (2020).
+Option to choose $/$$/$$$ delimiters added by Owen Hakim (2023).
 
 Licenced under the MIT licence.
 
