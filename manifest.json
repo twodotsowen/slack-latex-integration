@@ -10,7 +10,7 @@
    "short_name": "latex-slack",
    "description": "Render LaTeX in Slack chat.",
    "author": "Sophie Huiberts",
-   "homepage_url": "https://github.com/sophiehuiberts/katex-with-slack",
+   "homepage_url": "https://github.com/twodotsowen/slack-latex-integration",
    "options_ui": {
       "page": "options.html",
       "open_in_tab": false
